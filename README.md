@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Azure100503
 - 👀 I’m interested in Discrete Mathematic, cycling, baking and traveling,...
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on back-end projects
+- 💞️ I’m looking to collaborate on some projects in the future. I hope so.
 - 📫 My email: huyensam2003@gmail.com
 
 <!---
